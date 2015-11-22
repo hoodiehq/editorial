@@ -16,7 +16,7 @@ We:
 
 ## What can I find here? 
 
-Here you will find a growing repository of documentation for the Editorial Team. From how to submit a PR to the blog, to how to write a TGIF (Thank God It's Friday) post, to the language we use when writing for Hoodie. We want to write everything possible to ensure everyone who wants to write for Hoodie, can. :ok_woman:
+Here you will find a growing repository of documentation for the Editorial Team. From how to submit a PR to the blog, to how to write a TGIF! (Thank Gallileo, Gauss and Grohl It's Friday!) post, to the language we use when writing for Hoodie. We want to write everything possible to ensure everyone who wants to write for Hoodie, can. :ok_woman:
 
 ## How can I get involved?
 
