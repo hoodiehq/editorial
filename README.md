@@ -11,7 +11,7 @@ We:
 - **Solicit and curate contributions** to our blog from the larger community. :mag_right:
 - **Plan and manage our Twitter account**, announce new content, help funnel support requests to the engineering team.
 - **Help co-ordinate The Hoodie Letter and Offline First newsletters.
-- Add **pictures of animals in clothing** to [our tumblr](http://meetthehoodies.tumblr.com) :dog: :shirt:
+- Add **pictures of animals in clothing** to [our tumblr](http://meetthehoodies.tumblr.com) :dog: :shirt:.
 - **Whatever else you think is fun!**
 
 ## What can I find here? 
@@ -21,4 +21,4 @@ Here you will find a growing repository of documentation for the Editorial Team.
 ## I have a blog post proposal!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
-If you'd like to propose a blog post, please head over to [Issues](https://github.com/hoodiehq/editorial/issues) for this repository and create a new issue for your proposal. Let us know what you want to write about and we'll work with you to make it happen if it fits in Hoodie-land. An example of a blog post proposal is here: https://github.com/hoodiehq/editorial/issues/3.
+If you'd like to propose a blog post, please head over to the [Issues](https://github.com/hoodiehq/editorial/issues) for this repository and create a new issue for your proposal. Let us know what you want to write about and we'll work with you to make it happen if it fits in Hoodie-land. An example of a blog post proposal is here: https://github.com/hoodiehq/editorial/issues/3.
