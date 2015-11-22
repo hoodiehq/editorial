@@ -18,6 +18,10 @@ We:
 
 Here you will find a growing repository of documentation for the Editorial Team. From how to submit a PR to the blog, to how to write a TGIF (Thank God It's Friday) post, to the language we use when writing for Hoodie. We want to write everything possible to ensure everyone who wants to write for Hoodie, can. :ok_woman:
 
+## How can I get involved?
+
+The best way to get involved with the team is to come hang out with us in Slack. Join the Hoodie Slack here: [hood.ie/chat](http://hood.ie/chat) and then join the #editorial channel. You can also follow updates on this repository by clicking the 'Watch' :eyes: button in the top right.
+
 ## I have a blog post proposal!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
