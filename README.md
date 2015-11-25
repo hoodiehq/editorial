@@ -20,9 +20,9 @@ Here you will find a growing repository of documentation for the Editorial Team.
 
 ## How can I get involved?
 
-The best way to get involved with the team is to come hang out with us in Slack. Join the Hoodie Slack here: [hood.ie/chat](http://hood.ie/chat) and then join the #editorial channel. You can also follow updates on this repository by clicking the 'Watch' :eyes: button in the top right.
+Take a look at [our contribution guide](CONTRIBUTING.md#joining-the-hoodie-editorial-team). We're looking for people of all sorts, so don't be afraid to get involved. If you're passionate about contributing to a great community, we want you! :yellow_heart:
 
 ## I have a blog post proposal!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
-To start the process, please read [our guide on how to submit a pitch for the Hoodie blog.](CONTRIBUTING.md)
+To start the process, please read [our guide on how to submit a pitch for the Hoodie blog.](CONTRIBUTING.md#pitching-an-article-to-the-hoodie-blog)

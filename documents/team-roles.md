@@ -1,6 +1,6 @@
 # Editorial Team Roles
 
-These are some of the various roles that may be needed for an editorial piece. If you'd like to let us know that you want to help with one of these roles in the future, come [join our Slack group](http://hood.ie/chat), in the #editorial channel.
+These are some of the various roles that may be needed for an editorial piece. Other roles not listed here may be needed depending on a post, as well.
 
 * **Writer**
 * **Editor** - This may range from simple copy-editing, to providing a complete review of a piece.
