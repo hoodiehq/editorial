@@ -14,15 +14,15 @@ We:
 - Add **pictures of animals in clothing** to [our tumblr](http://meetthehoodies.tumblr.com) :dog: :shirt:.
 - **Whatever else you think is fun!**
 
-## What can I find here? 
+## What can I find here?
 
 Here you will find a growing repository of documentation for the Editorial Team. From how to submit a PR to the blog, to how to write a TGIF! (Thank Gallileo, Gauss and Grohl It's Friday!) post, to the language we use when writing for Hoodie. We want to write everything possible to ensure everyone who wants to write for Hoodie, can. :ok_woman:
 
 ## How can I get involved?
 
-The best way to get involved with the team is to come hang out with us in Slack. Join the Hoodie Slack here: [hood.ie/chat](http://hood.ie/chat) and then join the #editorial channel. You can also follow updates on this repository by clicking the 'Watch' :eyes: button in the top right.
+Take a look at [our contribution guide](CONTRIBUTING.md#joining-the-hoodie-editorial-team). We're looking for people of all sorts, so don't be afraid to get involved. If you're passionate about contributing to a great community, we want you! :yellow_heart:
 
 ## I have a blog post proposal!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
-If you'd like to propose a blog post, please head over to the [Issues](https://github.com/hoodiehq/editorial/issues) for this repository and create a new issue for your proposal. Let us know what you want to write about and we'll work with you to make it happen if it fits in Hoodie-land. An example of a blog post proposal is here: https://github.com/hoodiehq/editorial/issues/3.
+To start the process, please read [our guide on how to submit a pitch for the Hoodie blog.](CONTRIBUTING.md#pitching-an-article-to-the-hoodie-blog)
