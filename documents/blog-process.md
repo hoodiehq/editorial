@@ -1,6 +1,6 @@
 # Hoodie Blog Post Process
 
-1. **Pitching** - Writers can pitch us articles via this repository's GitHub issues. To make it easier for all parties involved, we provide [a template for their pitches](Blog Post Pitch Template.md). This gives us all the information needed to start the reviewal process. This step may not be needed for certain recurring series, such as TGIF.
+1. **Pitching** - Writers can pitch us articles via this repository's GitHub issues. To make it easier for all parties involved, we provide [a template for their pitches](pitch-template.md). This gives us all the information needed to start the reviewal process. This step may not be needed for certain recurring series, such as TGIF.
 
 2. **Reviewing** - After the writer has submitted their pitch, members of the editorial team should review it, and offer feedback. The feedback shouldn't necessarily be a yes/no (unless the writer submitted something wildly off-topic), but just feedback for the writer to make an even stronger pitch. This feedback/review period should last a few days, to let as many of us as possible give feedback. The editorial team should also start volunteering themselves for [the additional roles](team-roles.md) needed to get this post published.
 
