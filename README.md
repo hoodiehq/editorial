@@ -10,7 +10,7 @@ We:
 - **Plan and write blog posts** on or around Hoodie, Hoodie releases, side projects, TGIF, community member profiles, conference and meetup recaps, etc. :memo:
 - **Solicit and curate contributions** to our blog from the larger community. :mag_right:
 - **Plan and manage our Twitter account**, announce new content, help funnel support requests to the engineering team.
-- **Help co-ordinate The Hoodie Letter and Offline First newsletters.
+- **Help co-ordinate The Hoodie Letter and Offline First newsletters.**
 - Add **pictures of animals in clothing** to [our tumblr](http://meetthehoodies.tumblr.com) :dog: :shirt:.
 - **Whatever else you think is fun!**
 
