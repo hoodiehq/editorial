@@ -22,7 +22,7 @@ Here you will find a growing repository of documentation for the Editorial Team.
 
 Take a look at [our contribution guide](CONTRIBUTING.md#joining-the-hoodie-editorial-team). We're looking for people of all sorts, so don't be afraid to get involved. If you're passionate about contributing to a great community, we want you! :yellow_heart:
 
-If you decide you'd like to join us, please fork this repository and send a Pull Request for your contribution. Hoodie has [a great article](http://hood.ie/blog/contributing-to-hoodie.html) that explains how to fork and edit files. It's especially useful if you're new to the process.  
+Please fork this repository and send a Pull Request for your contribution. Hoodie has [a great article](http://hood.ie/blog/contributing-to-hoodie.html) that explains how to fork and edit files. It's especially useful if you're new to the process.  
 
 ## I have a blog post proposal!
 
