@@ -44,3 +44,7 @@ So there’s a wide range of topics and difficulties to pick from, and a bunch o
 And finally, here's me, grinning on my first Shinkansen ride:
 
 ![shinkansen](https://cloud.githubusercontent.com/assets/391124/11560507/567f3f1c-99c1-11e5-8454-a4a7497c06aa.jpg)
+
+# Thanks
+
+I'd like to thank [@schisepo](https://github.com/schisepo) for setting up the interview, [@charlotteis](https://github.com/charlotteis), [@nickcolley](https://github.com/nickcolley) and [@gr2m](https://github.com/gr2m) for their input reviewing this post!
