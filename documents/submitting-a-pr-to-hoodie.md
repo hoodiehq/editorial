@@ -1,6 +1,6 @@
-So, you've written a blog post and you'd like to submit it to the [Hood.ie Blog](http://hood.ie/blog)? Firstly, a :star: big thank you :star: from all of us, we really appreciate your work. Keep reading to find out which path on the 'submitting a blog post' you need to take on the journey you're about to embark on :earth_africa:.
+So, you’ve written a blog post and you’d like to submit it to the [Hood.ie Blog](http://hood.ie/blog)? Firstly, a :star: big thank you :star: from all of us, we really appreciate your work. Keep reading to find out which path on the 'submitting a blog post' you need to take on the journey you’re about to embark on :earth_africa:.
 
-## It's dangerous to go alone, take this:
+## It’s dangerous to go alone, take this:
 
 You are:
 * [Confident with submitting pull requests](#i-am-confident-in-submitting-pull-requests)
@@ -9,7 +9,7 @@ You are:
 
 ## I am confident in submitting pull-requests!
 
-We won't take up much of your time then and will give you the bullet-pointed version:
+We won’t take up much of your time then and will give you the bullet-pointed version:
 
 * Make sure you have [ruby](https://www.ruby-lang.org/en/) installed on your computer, as well as the the [`jekyll`](https://jekyllrb.com/) rubygem :gem:.
 * Fork and clone the [Hood.ie website](https://github.com/hoodiehq/hood.ie) repository.
