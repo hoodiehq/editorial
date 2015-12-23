@@ -14,7 +14,9 @@ Once you click that link, you'll see a page that contains the following:
 
 Here you can upload the picture you would like to appear on a blog, plus a
 caption if you want. Feel free to add your name into the caption, so that the
-world can see who came up with that cute picture.
+world can see who came up with that cute picture. If you found the picture
+online, it'd be great if the caption could include a link to either the original
+owner, or at least where you found it.
 
 That's it! You're all done, thanks for contributing, and please think of us the
 next time you find a cute animal wearing clothes. (We :sparkling_heart: hoodies, but
