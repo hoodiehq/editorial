@@ -30,3 +30,14 @@ If you have anything you'd like to contribute, please fork this repository and s
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
 To start the process, please read [our guide on how to submit a pitch for the Hoodie blog.](CONTRIBUTING.md#pitching-an-article-to-the-hoodie-blog)
+
+## Contacting Hoodie Editorial contributors outside GitHub
+
+<!-- 
+## Contact template: 
+
+[Your Name](link-to-personal-site.com) - [GitHub](), [Twitter](), `email@address.com`
+
+#### Example:
+[Hiro Protagonist](hiropro.com) - [GitHub](github.com/hiropro), [Twitter](twitter.com/hiropro), `hiro@protagonist.com`
+-->
