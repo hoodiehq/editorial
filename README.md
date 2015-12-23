@@ -2,6 +2,8 @@
 
 :rocket: Welcome to the home of the Hoodie Editorial Team! :rocket:
 
+:alarm_clock: Please check out our [wiki](https://github.com/hoodiehq/editorial/wiki) for our language styleguide and a glossary of common terms, which will be really useful when you write for Hoodie! :alarm_clock: 
+
 ## What is the Editorial Team?
 
 The Editorial Team is a group that focuses on Hoodies' communication with the wider community. We want to keep community members up to date with what we are doing but also showcase it to everyone who has used/is using/wants to use Hoodie for their project. We want to make Hoodie as open as possible with their process and act as a source of inspiration to the larger Open Source community.
