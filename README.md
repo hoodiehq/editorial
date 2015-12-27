@@ -37,8 +37,8 @@ A lot of our conversations happen here on GitHub in the [issue tracker](https://
 
 If there's something you'd like to talk about that you don't think fits in either of those places, or you'd just like to have a more private conversation; please feel free to contact the following people:
 
-- 🐶 Jan Lehnardt - [GitHub](https://github.com/janl), [Twitter](https://twitter.com/janl), <mailto:jan@hood.ie>
-- 🖥 Charlotte Spencer - [GitHub](https://github.com/charlotteis), [Twitter](https://twitter.com/charlotteis), <mailto:charlotte@hood.ie>
+- :dog: Jan Lehnardt - [GitHub](https://github.com/janl), [Twitter](https://twitter.com/janl), <mailto:jan@hood.ie>
+- :computer: Charlotte Spencer - [GitHub](https://github.com/charlotteis), [Twitter](https://twitter.com/charlotteis), <mailto:charlotte@hood.ie>
 
 <!-- 
 ## Contact template: 
