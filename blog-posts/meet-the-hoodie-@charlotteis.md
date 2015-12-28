@@ -62,4 +62,4 @@ This thumbs up is for you!
 
 # Thanks
 
-I’d like to thank [@schisepo](https://github.com/schisepo) for setting up the interview and *Add reviewers here* for their input reviewing this post!
+I’d like to thank [@schisepo](https://github.com/schisepo) for setting up the interview and [@renrutnnej](https://github.com/renrutnnej) *Add more reviewers here* for their input reviewing this post!
