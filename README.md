@@ -28,6 +28,8 @@ Take a look at [our contribution guide](CONTRIBUTING.md#joining-the-hoodie-edito
 
 If you have anything you'd like to contribute, please fork this repository and send a Pull Request for your contribution. We have [a great article](http://hood.ie/blog/contributing-to-hoodie.html) that explains how to fork and edit files. It's especially useful if you're new to the process.  
 
+Here are some of the issues we are working on :point_right: [![Stories in Ready](https://badge.waffle.io/hoodiehq/editorial.svg?label=ready&title=Ready)](http://waffle.io/hoodiehq/editorial) and  [![Stories in Progress](https://badge.waffle.io/hoodiehq/editorial.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/hoodiehq/editorial)
+
 ## I have a blog post proposal!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
