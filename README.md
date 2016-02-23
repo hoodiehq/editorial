@@ -2,6 +2,12 @@
 
 :rocket: Welcome to the home of the Hoodie Editorial Team! :rocket:
 
+## Mission Statement
+
+The Hoodie Editorial Team exists to support [Hoodie’s Initiatives](http://hood.ie/initiatives/) ([Offline First](http://hood.ie/initiatives/#offline-first), [noBackend](http://hood.ie/initiatives/#nobackend), [Hoodie is Dreamcode](http://hood.ie/initiatives/#dreamcode), [tools](http://hood.ie/initiatives/#tools) and products, and encouraging [Non-Coding Experts in Open Source](http://hood.ie/initiatives/#noncoders)) through writing documentation, writing content for a website or blog to design, editing, public relations, social media and much more.
+
+The Editorial Team follows Hoodie’s [Code of Conduct](http://hood.ie/code-of-conduct/). 
+
 :alarm_clock: Please check out our [wiki](https://github.com/hoodiehq/editorial/wiki) for our language styleguide and a glossary of common terms, which will be really useful when you write for Hoodie! :alarm_clock: 
 
 ## What is the Editorial Team?
@@ -12,7 +18,6 @@ We:
 - **Plan and write blog posts** on or around Hoodie, Hoodie releases, side projects, TGIF, community member profiles, conference and meetup recaps, etc. :memo:
 - **Solicit and curate contributions** to our blog from the larger community. :mag_right:
 - **Plan and manage our Twitter account**, announce new content, help funnel support requests to the engineering team.
-- **Help co-ordinate The Hoodie Letter and Offline First newsletters.**
 - Add **pictures of animals in clothing** to [our tumblr](http://meetthehoodies.tumblr.com) :dog: :shirt:.
 - **Whatever else you think is fun!**
 
