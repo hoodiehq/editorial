@@ -43,6 +43,7 @@ If there's something you'd like to talk about that you don't think fits in eithe
 
 - :dog: Jan Lehnardt - [GitHub](https://github.com/janl), [Twitter](https://twitter.com/janl), <mailto:jan@hood.ie>
 - :computer: Charlotte Spencer - [GitHub](https://github.com/charlotteis), [Twitter](https://twitter.com/charlotteis), <mailto:charlotte@hood.ie>
+- :sunglasses: Jenn Turner - [GitHub](https://github.com/renrutnnej), [Twitter](https://twitter.com/renrutnnej), <mailto:renrutnnej@gmail.com> 
 
 <!-- 
 ## Contact template: 
