@@ -4,7 +4,7 @@
 
 ## Mission Statement
 
-The Hoodie Editorial Team exists to support [Hoodie’s Initiatives](http://hood.ie/initiatives/) ([Offline First](http://hood.ie/initiatives/#offline-first), [noBackend](http://hood.ie/initiatives/#nobackend), [Hoodie is Dreamcode](http://hood.ie/initiatives/#dreamcode), [tools](http://hood.ie/initiatives/#tools) and products, and encouraging [Non-Coding Experts in Open Source](http://hood.ie/initiatives/#noncoders)) through writing documentation, writing content for a website or blog to design, editing, public relations, social media and much more.
+The Hoodie Editorial Team exists to support [Hoodie’s Initiatives](http://hood.ie/initiatives/) ([Offline First](http://hood.ie/initiatives/#offline-first), [noBackend](http://hood.ie/initiatives/#nobackend), [Hoodie is Dreamcode](http://hood.ie/initiatives/#dreamcode), [tools](http://hood.ie/initiatives/#tools) and products, and encouraging [Non-Coding Contributors in Open Source](http://hood.ie/initiatives/#noncoders)) through writing documentation, writing content for a website or blog to design, editing, public relations, social media and much more.
 
 The Editorial Team follows Hoodie’s [Code of Conduct](http://hood.ie/code-of-conduct/). 
 
