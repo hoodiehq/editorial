@@ -1,4 +1,4 @@
-
+This template is for use when creating an issue that can be addressed within GitHub's UI (example: typo, copy changes, etc).
 
 ### :octocat: Starter Issue
 
