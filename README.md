@@ -35,10 +35,14 @@ If you have anything you'd like to contribute, please fork this repository and s
 
 Here are some of the issues we are working on :point_right: [![Stories in Ready](https://badge.waffle.io/hoodiehq/editorial.svg?label=ready&title=Ready)](http://waffle.io/hoodiehq/editorial) and  [![Stories in Progress](https://badge.waffle.io/hoodiehq/editorial.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/hoodiehq/editorial)
 
-## I have a blog post proposal!
+## I have a blog post proposal/want to write a post!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
-To start the process, please read [our guide on how to submit a pitch for the Hoodie blog.](CONTRIBUTING.md#pitching-an-article-to-the-hoodie-blog)
+To start the process, 
++ Read [our guide on submitting a pitch for the Hoodie blog.](CONTRIBUTING.md#pitching-an-article-to-the-hoodie-blog)
++ Suggest blog post topic in __this repo__ by creating an [issue](https://github.com/hoodiehq/editorial/issues)
++ Or, claim an issue and follow the process outlined in the [hoodiehq/hood.ie README](https://github.com/hoodiehq/hood.ie#blog) (where the Hoodie blog lives :relaxed:)
+
 
 ## Contacting Hoodie Editorial contributors outside GitHub
 
