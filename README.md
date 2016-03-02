@@ -35,6 +35,12 @@ If you have anything you'd like to contribute, please fork this repository and s
 
 Here are some of the issues we are working on :point_right: [![Stories in Ready](https://badge.waffle.io/hoodiehq/editorial.svg?label=ready&title=Ready)](http://waffle.io/hoodiehq/editorial) and  [![Stories in Progress](https://badge.waffle.io/hoodiehq/editorial.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/hoodiehq/editorial)
 
+__Find writing assignments and other editorial tasks__ to claim in our [Issues section](https://github.com/hoodiehq/editorial/issues) of this repo. When claiming a task please do the following:
+
+1. Claim this issue (`comment on the issue or assign yourself`)
+2. Remove `ready` label, add `in progress` label
+3. If possible, give an indication of the timeline :relaxed:
+
 ## I have a blog post proposal/want to write a post!
 
 Well firstly, amazing! :tada: Thank you for considering writing for Hoodie :sparkling_heart:.
