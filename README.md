@@ -33,7 +33,9 @@ You can also take a look at our [wiki](https://github.com/hoodiehq/editorial/wik
 
 Take a look at [our contribution guide](CONTRIBUTING.md#joining-the-hoodie-editorial-team). We’re looking for people of all sorts, so don’t be afraid to get involved. If you’re passionate about contributing to a great community, we want you! :yellow_heart:
 
-If you have anything you’d like to contribute, please fork this repository and send a Pull Request for your contribution. We have [a great article](http://hood.ie/blog/contributing-to-hoodie.html) that explains how to fork and edit files. It’s especially useful if you’re new to the process.  
+If you have anything you’d like to contribute, please fork this repository and send a Pull Request for your contribution. We have [a great article](http://hood.ie/blog/contributing-to-hoodie.html) that explains how to fork and edit files. It’s especially useful if you’re new to the process.
+
+A lot of our content is formatted by Markdown, a text-to-HTML conversion tool for web writers. You can learn more about this style at [Daring Fireball](https://daringfireball.net/projects/markdown/), in particular the resource on [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax). 
 
 Here are some of the issues we are working on :point_right: [![Stories in Ready](https://badge.waffle.io/hoodiehq/editorial.svg?label=ready&title=Ready)](http://waffle.io/hoodiehq/editorial) and  [![Stories in Progress](https://badge.waffle.io/hoodiehq/editorial.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/hoodiehq/editorial)
 
