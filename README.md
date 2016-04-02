@@ -6,7 +6,7 @@
 
 [Hoodie](http://hood.ie/) is a global, __inclusive community__ built around supporting the __open source__ software development effort of enabling (and empowering) folks to be able to build applications for the web and iOS. It accomplishes this by serving as a complete backend for your apps; it works immediately “out-of-the-box”: __develop your frontend code, plug it into Hoodie’s frontend-friendly API and your app is ready.__
 
-Hoodie can refer to both the software development project, and the broader community. For more information about both, visit [hood.ie](http://hood.ie/).
+Hoodie can refer to both the software development project, and the broader community. For more information about both, visit [hood.ie](http://hood.ie/). :dog:
 
 ## What is open source?
 
@@ -29,7 +29,7 @@ The Editorial Team is one of many talented teams that contributes to Hoodie’s 
 [Read our official Mission Statement here.](https://github.com/hoodiehq/editorial/wiki/Mission-Statement)
 
 ### Common editorial contributions
-+ Plan and write blog posts on or around Hoodie, Hoodie releases, side projects, TGIF, community member profiles, conference and meetup recaps, etc. :memo:
++ Plan and write blog posts on or around Hoodie, Hoodie releases, side projects, [TGIF](http://hood.ie/blog/webkit-resizer-tiny-compiler-tgif-77.html), [community member profiles](http://hood.ie/blog/Charlotte-Spencer-meet-the-hoodies-2.html), conference and meetup recaps, etc. :memo:
 + Solicit and curate contributions to our [blog](http://hood.ie/blog/) from the larger community. :mag_right:
 + Plan and manage our [Twitter account](https://twitter.com/hoodiehq), announce new content, help funnel support requests to the engineering team.
 + Add pictures of animals in clothing to our [Tumblr](http://meetthehoodies.tumblr.com/) :dog: :shirt:.
@@ -48,7 +48,7 @@ When claiming a task please do the following:
 3. Remove `ready` label, add `in progress` label
 4. If possible, give an indication of the timeline :relaxed:
 
-__If you are brand new to Hoodie__ check out our [contribution guide](http://hood.ie/contribute/). We’re looking for people of all sorts, so don’t be afraid to get involved. If you’re passionate about contributing to a great community, we want you!
+__If you are brand new to Hoodie__ check out our [contribution guide](http://hood.ie/contribute/). We’re looking for people of all sorts, so don’t be afraid to get involved. If you’re passionate about contributing to a great community, we want you! :gem:
 
 __If you are brand new to open source (including GitHub)__ first, welcome! If you haven’t checked it out yet, [opensource.com](https://opensource.com/resources/what-open-source) has some very helpful introductory resources that will give you a good understanding of the premise of open source and its ecosystem. 
 
@@ -65,7 +65,7 @@ The way in which the Editorial team uses GitHub is a bit different from other ar
 This repository (or collection) serves as the source of truth for the Editorial team. We use the repository in two ways:
 
 + __Documentation__ of processes and resources (such as our style guide, or templates for types of reoccuring writing contributions)
-+ __Idea capturing__ of all editorial contributions through the Issues section of this repository
++ __Idea capturing__ of all editorial contributions through the [Issues section](https://github.com/hoodiehq/editorial/issues) of this repository
 
 We do not publish anything live to the externally facing websites from this repository. This is a __safe place to learn, ask questions, and make mistakes.__ So breathe easy. :relaxed:
 
@@ -78,7 +78,7 @@ __Some GitHub basics__
 ## Other essential resources
 
 ### [Slack chat](http://hood.ie/chat/)
-Please join the Hoodie project [Slack chat](http://hood.ie/chat/), because a lot of our discussion and reviewing happens in that place. It's also a great place to ask questions, meet other contributors, and find out the latest goings on within the project. There's a specific #editorial channel there you'll want to join. 
+Please join the Hoodie project [Slack chat](http://hood.ie/chat/), because a lot of our discussion and reviewing happens in that place. It’s also a great place to ask questions, meet other contributors, and find out the latest goings on within the project. There’s a specific _#editorial_ channel there you’ll want to join. 
 
 ### [Editorial Team Hangout](https://hangouts.google.com/call/irskncu5m5dwdlsag2k77oo2qme)
 Each [Wednesday at 9:30 AM Eastern Standard Time](https://hangouts.google.com/call/irskncu5m5dwdlsag2k77oo2qme), Jenn hosts a 30-minute Google Hangout for contributors to meet and get on the same page about contributions, the editorial roadmap, and general team happenings. 
