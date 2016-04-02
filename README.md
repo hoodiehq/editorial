@@ -37,7 +37,7 @@ The Editorial Team is one of many talented teams that contributes to Hoodie’s 
 
 ## How you can contribute
 
-__If you already have an idea of what you would to do__ please visit the [Issues section](https://github.com/hoodiehq/editorial/issues) of this repository. The [Issues section](https://github.com/hoodiehq/editorial/issues) is where we keep track of potential editorial contributions, requests for help, and general suggestions. 
+__If you already have an idea of what you would like to do__ please visit the [Issues section](https://github.com/hoodiehq/editorial/issues) of this repository. The [Issues section](https://github.com/hoodiehq/editorial/issues) is where we keep track of potential editorial contributions, requests for help, and general suggestions. 
 
 Here are some of the issues we are working on :point_right: [![Stories in Ready](https://badge.waffle.io/hoodiehq/editorial.svg?label=ready&title=Ready)](http://waffle.io/hoodiehq/editorial) and  [![Stories in Progress](https://badge.waffle.io/hoodiehq/editorial.svg?label=In%20Progress&title=In%20Progress)](http://waffle.io/hoodiehq/editorial)
 
@@ -50,7 +50,7 @@ When claiming a task please do the following:
 
 __If you are brand new to Hoodie__ check out our [contribution guide](http://hood.ie/contribute/). We’re looking for people of all sorts, so don’t be afraid to get involved. If you’re passionate about contributing to a great community, we want you! :gem:
 
-__If you are brand new to open source (including GitHub)__ first, welcome! If you haven’t checked it out yet, [opensource.com](https://opensource.com/resources/what-open-source) has some very helpful introductory resources that will give you a good understanding of the premise of open source and its ecosystem. 
+__If you are brand new to open source (including GitHub)__ first, welcome!:tada: If you haven’t checked it out yet, [opensource.com](https://opensource.com/resources/what-open-source) has some very helpful introductory resources that will give you a good understanding of the premise of open source and its ecosystem. 
 
 To be a Hoodie contributor, you will need a GitHub account (which is free for open source), [sign up here](https://github.com/join). To get familar with GitHub as an online tool, they have created several tutorials which you can find via [GitHub Guides](https://guides.github.com/).
 
