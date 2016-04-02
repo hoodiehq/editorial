@@ -10,7 +10,7 @@ Hoodie can refer to both the software development project, and the broader commu
 
 ## What is open source?
 
-[Open source software](https://en.wikipedia.org/wiki/Open-source_software) (commony abbreviated as OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open source software may be developed in a collaborative public manner, for example, by __hosting code on GitHub__ and __collaborative discussion on Slack__.
+[Open source software](https://en.wikipedia.org/wiki/Open-source_software) (commonly abbreviated as OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open source software may be developed in a collaborative public manner, for example, by __hosting code on GitHub__ and __collaborative discussion on Slack__.
 
 [Click here for more information on open source and open source culture](https://opensource.com/resources/what-open-source), and [here’s a helpful list of frequently asked questions](https://opensource.com/resources). 
 
