@@ -43,9 +43,10 @@ Here are some of the issues we are working on :point_right: [![Stories in Ready]
 
 When claiming a task please do the following:
 
-1. Claim this issue (`comment on the issue or assign yourself`)
-2. Remove `ready` label, add `in progress` label
-3. If possible, give an indication of the timeline :relaxed:
+1. Find a task with the green `help wanted` label 
+2. Claim this issue (`comment on the issue or assign yourself`)
+3. Remove `ready` label, add `in progress` label
+4. If possible, give an indication of the timeline :relaxed:
 
 __If you are brand new to Hoodie__ check out our [contribution guide](http://hood.ie/contribute/). We’re looking for people of all sorts, so don’t be afraid to get involved. If you’re passionate about contributing to a great community, we want you!
 
