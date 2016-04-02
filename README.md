@@ -67,7 +67,7 @@ This repository (or collection) serves as the source of truth for the Editorial 
 + __Documentation__ of processes and resources (such as our style guide, or templates for types of reoccuring writing contributions)
 + __Idea capturing__ of all editorial contributions through the Issues section of this repository
 
-We do not publish anything live to the externally facing websites from this repository. This is a safe place to learn, ask questions, and make mistakes. So breathe easy. :relaxed:
+We do not publish anything live to the externally facing websites from this repository. This is a __safe place to learn, ask questions, and make mistakes.__ So breathe easy. :relaxed:
 
 __Some GitHub basics__
 + [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
