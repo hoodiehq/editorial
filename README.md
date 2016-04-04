@@ -4,13 +4,13 @@
   
 ## What is [Hoodie](http://hood.ie/)?
 
-[Hoodie](http://hood.ie/) is a global, __inclusive community__ built around supporting the __open source__ software development effort of enabling (and empowering) folks to be able to build applications for the web and iOS. It accomplishes this by serving as a complete backend for your apps; it works immediately “out-of-the-box”: __develop your frontend code, plug it into Hoodie’s frontend-friendly API and your app is ready.__
+[Hoodie](http://hood.ie/) is a global, __inclusive community__ built around supporting the __open source__ software development effort of enabling (and empowering) folks to be able to build applications for the web. It accomplishes this by serving as a complete backend for your apps; it works immediately “out-of-the-box”: __develop your frontend code, plug it into Hoodie’s frontend-friendly API and your app is ready.__
 
 Hoodie can refer to both the software development project, and the broader community. For more information about both, visit [hood.ie](http://hood.ie/). :dog:
 
 ## What is open source?
 
-[Open source software](https://en.wikipedia.org/wiki/Open-source_software) (commonly abbreviated as OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open source software may be developed in a collaborative public manner, for example, by __hosting code on GitHub__ and __collaborative discussion on Slack__.
+[Open source software](https://en.wikipedia.org/wiki/Open-source_software) (commonly abbreviated as OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open source software may be developed in a collaborative public manner, for example, by __hosting code on GitHub__ and __collaborative discussion on [Slack and IRC](http://hood.ie/chat/)__.
 
 [Click here for more information on open source and open source culture](https://opensource.com/resources/what-open-source), and [here’s a helpful list of frequently asked questions](https://opensource.com/resources). 
 
@@ -97,7 +97,7 @@ You’ve been added as a collaborator! :sunglasses:
 
 Now, what’s next?
 
-This grey area of onboarding is one our team is looking to improve across the project so first – __please give as much feedback about this as possible__ (you can <a href="mailto:@renrutnnej@gmail.com?Subject=I%20have%20onboarding%20feedback!">email Jenn right here</a>) but know that it’s an area we want to make better.
+This grey area of onboarding is one our team is looking to improve across the project so first – __please give as much feedback about this as possible__ (you can <a href="mailto:renrutnnej@gmail.com?Subject=I%20have%20onboarding%20feedback!">email Jenn right here</a>) but know that it’s an area we want to make better.
 
 There is a [Next steps](https://github.com/hoodiehq/editorial/issues?q=is%3Aissue+is%3Aopen+label%3A%22Next+steps%22) label in the [Issues section](https://github.com/hoodiehq/editorial/issues) for editorial contributions considered to be a little more involved than what we’d ask first time contributors to take on. Check those out to see if anything resonates.
 
