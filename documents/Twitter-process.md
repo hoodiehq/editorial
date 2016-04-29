@@ -17,7 +17,7 @@ Respond to mentions, retweet content from our Community List, lend a voice to is
 #How you can help
 
 1. ##Join our Trello Board 
-Sign up for Trello and request membership to our board [Hoodie Trello Board](Trello board @Hoodie - https://trello.com/b/4GsMspPl/hoodie.)
+Sign up for Trello and request membership to our board [Trello board @Hoodie](https://trello.com/b/4GsMspPl/hoodie.)
 
 2. ##Propose Content 
 Propose content by adding a card to the defined lists together with a proposed date and time for the content.
