@@ -108,9 +108,6 @@ There is a [Next steps](https://github.com/hoodiehq/editorial/issues?q=is%3Aissu
 ### [Slack chat](http://hood.ie/chat/)
 Please join the Hoodie project [Slack chat](http://hood.ie/chat/), because a lot of our discussion and reviewing happens in that place. It’s also a great place to ask questions, meet other contributors, and find out the latest goings on within the project. There’s a specific _#editorial_ channel there you’ll want to join. 
 
-### [Editorial Team Hangout](https://hangouts.google.com/call/irskncu5m5dwdlsag2k77oo2qme)
-Each [Wednesday at 9:30 AM Eastern Standard Time](https://hangouts.google.com/call/irskncu5m5dwdlsag2k77oo2qme), Jenn hosts a 30-minute Google Hangout for contributors to meet and get on the same page about contributions, the editorial roadmap, and general team happenings. 
-
 ### [Editorial Wiki](https://github.com/hoodiehq/editorial/wiki)
 Our [wiki](https://github.com/hoodiehq/editorial/wiki) is an ongoing effort to build resources making it easier for folks to contribute. Some resources you can find there include our [mission statement](https://github.com/hoodiehq/editorial/wiki/Mission-Statement), a [glossary of common terms](https://github.com/hoodiehq/editorial/wiki/Glossary-of-common-terms), and our [language style guide](https://github.com/hoodiehq/editorial/wiki/Hoodie-Language-Style-Guide). 
 
