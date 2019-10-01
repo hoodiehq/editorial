@@ -18,13 +18,13 @@ Hoodie can refer to both the software development project, and the broader commu
 
 Hoodie is an open source project and community __“beyond software.”__ Our team strongly believes that open source, an integral component of modern technology, is changing the way people collaborate and create, and that extends far beyond the source code.  
 
-Hoodie is built by an amazing and dedicated community consisting of developers and non-coding experts. It relies on strong values like diversity, empowerment and decentralisation. At its core Hoodie exists to empower people and make web development easier and more accessible to a wide range of people.
+Hoodie is built by an amazing and dedicated community consisting of both developers and non-coding experts. It relies on strong values like diversity, empowerment and decentralisation. At it's core Hoodie exists to empower people and make web development easier and more accessible for a wide range of people.
 
-We require all participation within the Hoodie project and community to act according to a [Code of Conduct](http://hood.ie/code-of-conduct/). We ask you to follow these guidelines which help steer __our interactions__ and strive to keep Hoodie a positive, growing project and community and help us __provide and ensure a safe environment for everyone__.
+We require all participation within the Hoodie project and community to act according to the [Code of Conduct](http://hood.ie/code-of-conduct/). We ask you to follow these guidelines which help steer __our interactions__ and strive to keep Hoodie a positive, growing project and community and help us __provide and ensure a safe environment for everyone__.
 
 ## What does the editorial team do?
 
-The Editorial Team is one of many talented teams that contributes to Hoodie’s success. __Our primary focus is Hoodies’ communication with the wider community.__ We want to keep community members up to date with what we are doing but also showcase it to everyone who has used/is using/wants to use Hoodie for their project. We want to make Hoodie as open as possible with their process and act as a source of inspiration to the larger Open Source community.
+The Editorial Team is one of the many talented teams that contribute to Hoodie’s success. __Our primary focus is Hoodie's communication with the wider community.__ We want to keep community members up to date with what we are doing but also showcase it to everyone who has used/is using/wants to use Hoodie for their project. We want to make Hoodie as open as possible with their process and act as a source of inspiration to the larger Open Source community.
 
 [Read our official Mission Statement here.](https://github.com/hoodiehq/editorial/wiki/Mission-Statement)
 
@@ -56,7 +56,7 @@ To be a Hoodie contributor, you will need a GitHub account (which is free for op
 
 You will also need to know [Markdown](https://daringfireball.net/projects/markdown/), a text-to-HTML conversion tool for web writers. GitHub provides a [Markdown tutorial](https://guides.github.com/features/mastering-markdown/), and Daring Fireball has a particular thorough resource on [Markdown Syntax](https://daringfireball.net/projects/markdown/syntax). 
 
-__Please be assured you will not have to have any prior knowledge of code or development to be a Hoodie contributor, especially within the Editorial team.__
+__Please be assured you won't need to have any prior knowledge of code or development to be a Hoodie contributor, especially within the Editorial team.__
 
 ## How to use GitHub  
 
@@ -77,15 +77,15 @@ __Some GitHub basics__
 
 ## Becoming a Hoodie contributor
 
-If you enjoyed contributing a first time to Hoodie, we’d love to have you onboard. :dog:  See the [Contribution Guide for the overall project at hood.ie/contribute](http://hood.ie/contribute/). Another great way to determine if you’d like to continue on the project is to see the [Hoodie project goals](http://hood.ie/about/) and also review the [project initiatives](http://hood.ie/initiatives/), which are areas of the project supported across the entire team. 
+If you enjoyed contributing for the first time to Hoodie, we’d love to have you onboard. :dog:  See the [Contribution Guide for the overall project at hood.ie/contribute](http://hood.ie/contribute/). Another great way to determine if you’d like to continue on the project is to see the [Hoodie project goals](http://hood.ie/about/) and also review the [project initiatives](http://hood.ie/initiatives/), which are areas of the project supported across the entire team. 
 
 ### So you want to be a contributor 
 
-Once you have made a contribution via GitHub (completing an issue, mergine a PR (pull request), etc.) we would like to invite you to be a collaborator on the [Hoodie GitHub repository](https://github.com/hoodiehq). Please note, this is not an automated process, and requires one of the core maintainers to invite you – so if you are reading this and have __not yet been invited__, please get ahold of one of the folks mentioned below. 
+Once you have made a contribution via GitHub (completing an issue, mergine a PR (pull request), etc.) we would like to invite you to be a collaborator on the [Hoodie GitHub repository](https://github.com/hoodiehq). Please note, this is not an automated process, and requires one of the core maintainers to invite you – so if you are reading this and have __not yet been invited__, please get hold of one of the folks mentioned below. 
 
-Becoming a collaborator simply means that you gain __push__ access to projects across the repository. We ask that until you have become a regular collaborator, that you still follow a common review process typically referred to as using __pull requests__.
+Becoming a collaborator simply means that you gain __push__ access to projects across the repository. We ask that until you have become a regular collaborator, you still follow a common review process typically referred to as using __pull requests__.
 
-The __review process__ is begun by submitting a __pull request__ back to the original version (branch) of a repository. Many, many, many amazing tutorials have been created about the pull request process so I won’t recap that here, but instead point you to the [GitHub tutorial](https://help.github.com/articles/using-pull-requests/).
+The __review process__ is begins by submitting a __pull request__ back to the original version (branch) of a repository. Many, many, many amazing tutorials have been created about the pull request process so I won’t recap that here, but instead point you to the [GitHub tutorial](https://help.github.com/articles/using-pull-requests/).
 
 For Hoodie, pull requests need to be approved by __two other contributors__, before being merged into the project.
 
@@ -99,9 +99,9 @@ Now, what’s next?
 
 This grey area of onboarding is one our team is looking to improve across the project so first – __please give as much feedback about this as possible__ (you can <a href="mailto:renrutnnej@gmail.com?Subject=I%20have%20onboarding%20feedback!">email Jenn right here</a>) but know that it’s an area we want to make better.
 
-There is a [Next steps](https://github.com/hoodiehq/editorial/issues?q=is%3Aissue+is%3Aopen+label%3A%22Next+steps%22) label in the [Issues section](https://github.com/hoodiehq/editorial/issues) for editorial contributions considered to be a little more involved than what we’d ask first time contributors to take on. Check those out to see if anything resonates.
+There is a [Next steps](https://github.com/hoodiehq/editorial/issues?q=is%3Aissue+is%3Aopen+label%3A%22Next+steps%22) label in the [Issues section](https://github.com/hoodiehq/editorial/issues) for editorial contributions considered to be a little more involved than what we’d ask first time contributors to take on. Check those out to see if anything resonates with you.
 
-### If not, please feel free, empowered, and highly valued to [make suggestions](https://github.com/hoodiehq/editorial/issues/new) for contributions you’d like to see on the project. Your brand new and completely unique perspective is incredibly important to shaping this project. 
+### If not, please feel free, empowered, and highly valued to [make suggestions](https://github.com/hoodiehq/editorial/issues/new) for contributions you’d like to see on the project. Your brand new and completely unique perspective is incredibly important to shape this project. 
 
 ## Other essential resources
 
